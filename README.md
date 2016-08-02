@@ -1,2 +1,2 @@
 # hello-world
-It is introduction to github
+Hello I am Ahmet I am trying to learn GitHub.
